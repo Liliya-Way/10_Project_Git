@@ -129,7 +129,7 @@ body {
 }
 
 .nav__link:hover {
-    color: #71A7E2;
+    color: red;
 }
 
 .nav__link::after {
@@ -146,7 +146,6 @@ body {
 
 .nav__link:active {
     color: #3172B9;
-    outline: none;
 }
 
 .nav__link:active::after {
